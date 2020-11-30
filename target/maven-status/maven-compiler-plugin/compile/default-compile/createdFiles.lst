@@ -1,0 +1,5 @@
+com\github\OlehSvidunov\WeatherBot\Main.class
+com\github\OlehSvidunov\WeatherBot\WeatherBot.class
+com\github\OlehSvidunov\WeatherBot\parcers\WeatherParser.class
+com\github\OlehSvidunov\WeatherBot\parcers\OpenWeatherMapJsonParser.class
+com\github\OlehSvidunov\WeatherBot\util\WeatherUtils.class
